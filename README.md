@@ -1,1 +1,1 @@
-# chiissu-legal
+# legal
